@@ -27,7 +27,7 @@ class World{
 
     container.append(this.#renderer.domElement);
     const cube = createCube();
-    const lights = createLights();
+    const { ambientLight, directLight} = createLights();
 
     const controls = createControls(this.#camera, this.#renderer.domElement);  //通过插件完成对相机的控制
     //controls.target.copy(cube.position);
@@ -37,7 +37,7 @@ class World{
     })
 
     this.#loop.updatables.push(controls);   //需要更新渲染的对象列表
-    this.#scene.add(cube,lights[0], lights[1]);
+    this.#scene.add(cube, ambientLight, directLight);
 
     //创建resizer实例
     const resizer = new Resizer(container, this.#camera, this.#renderer);
