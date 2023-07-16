@@ -62,6 +62,7 @@ class World{
     const { parrot, flamingo, stork } = await loaderBirds();
     allmodel = [parrot.position, flamingo.position, stork.position];
     this.#controls.target.copy(allmodel[0]);
+    this.#loop.updatables.push(parrot, flamingo, stork);
     this.#scene.add(parrot, flamingo, stork);
   }
 
