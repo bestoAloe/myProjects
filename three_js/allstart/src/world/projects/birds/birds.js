@@ -4,9 +4,9 @@ import { setupModel } from './setupModel.js';
 async function loaderBirds(){
   const loader = new GLTFLoader();
   const [parrotData, flamingoData, storkData] = await Promise.all([
-    loader.loadAsync('src/assets/models/Parrot.glb'),
-    loader.loadAsync('src/assets/models/Flamingo.glb'),
-    loader.loadAsync('src/assets/models/Stork.glb'),
+    loader.loadAsync('src/assets/models/bird/Parrot.glb'),
+    loader.loadAsync('src/assets/models/bird/Flamingo.glb'),
+    loader.loadAsync('src/assets/models/bird/Stork.glb'),
   ]);
 
   console.table('Squaaawk!', parrotData);

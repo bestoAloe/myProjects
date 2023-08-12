@@ -27,7 +27,7 @@ class World{
     this.#camera = createCamera();
     this.#scene = createScene();
     this.#renderer = createRenderer();
-    this.#loop = new Loop(this.#camera, this.#scene, this.#renderer)
+    this.#loop = new Loop(this.#camera, this.#scene, this.#renderer);
     //通过插件完成对相机的控制
     this.#controls = createControls(this.#camera, this.#renderer.domElement);  
 

@@ -1,0 +1,20 @@
+{
+	"name": "goexam",
+	"scripts": {
+		"dev": "webpack-dev-server",
+		"build": "webpack"
+	},
+	"dependencies": {
+		"clean-webpack-plugin": "^4.0.0",
+		"copy-webpack-plugin": "^11.0.0",
+		"css-loader": "^6.8.1",
+		"style-loader": "^3.3.3",
+		"three": "^0.154.0",
+		"url-loader": "^4.1.1"
+	},
+	"devDependencies": {
+		"webpack": "^5.88.2",
+		"webpack-cli": "^5.1.4",
+		"webpack-dev-server": "^4.15.1"
+	}
+}

@@ -3,7 +3,6 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const CopyPlugin = require('copy-webpack-plugin');
 
 module.exports = {
-  
   entry: './src/index.js',   // 入口文件
   output: {                     // 输出配置
     filename: 'main.js',      // 输出文件名
