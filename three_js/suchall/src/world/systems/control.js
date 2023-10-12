@@ -1,5 +1,10 @@
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 
+  /**
+   *@Author：hayAloe
+  *@Date: 2023-09-08 12:09:29
+  *@Description: 创建鼠标控制器
+  **/
 function createControl(camera, canvas){
   let controls = new OrbitControls(camera, canvas);
   //controls.enableDamping = true;
