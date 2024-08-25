@@ -1,0 +1,2250 @@
+{
+  "slides": {
+    "app_tongzhua-about_device": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-about_us": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-account_delete": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-account_security": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-assist_set_feed": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-audio": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-base_setting": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-ble": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-bt_net_config_debugapp": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-buffet_auto_set": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-buffet_index": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-catfood_mission": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-check_num": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-collect_video": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-collegelist": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-dcenter": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-debugentrance": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-device_category": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-device_messagedetail": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-device_model_list": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-device_name": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-device_setting": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-device_sound": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-device_video_list": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-dryer_cycle": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-dryer_status": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-eat_video_list": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-eat_video_player": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-eat_video_player_fs": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-edit_birthday": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-edit_breed": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-edit_nickname": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-edit_petfood": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-edit_petinfo": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-edit_sex": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-edit_type": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-edit_useravatar": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-edit_userinfo": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-edit_usernickname": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-edit_weight": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-feed_data": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-feedback": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-filedetail": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-files": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-firmware_version": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-forget_pwd": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-habbit_feed": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-index": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-list": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-live": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-live_fullscreen": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-mcu_version": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-memorandum_create": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-memorandum_list": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-memorandum_type": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-mergetermsdetail": {
+      "components": {
+        "component-c2597491": {
+          "components": {},
+          "slide": {
+            "alias": "[合并]服务协议详情",
+            "animate_list": [],
+            "base_template": "",
+            "category": "build",
+            "category2": "item",
+            "category3": "papp_page",
+            "class": [
+              "id_d00723ca5dc15c84b2cb4661"
+            ],
+            "components": {},
+            "components_layout": [],
+            "css": "",
+            "css_ctx": {},
+            "dapp": {
+              "__build_js": {
+                "dwapp_mobile": "\"use strict\";Object.defineProperty(exports,\"__esModule\",{value:!0});var extraComponents={},storeOptions=null,systemStoreOptions=[],workflowStoreOptions={},computedModule={},fixtureID=null;storeOptions=require(\"./my_store_dwapp_mobile.js\").default,workflowStoreOptions=function(t){t.app;var e={};const o={};o.onCreateState=function(t,e){const o=t.state;o.item=null;return o},o.onShow=async function(t,e){t.state,t.commit(\"setState\",{\"state.item\":null}),await t.dispatch(\"func1\",{})},o.onPullDownRefresh=async function(e,o){e.state,await e.dispatch(\"func1\",{}),t.wx.stopPullDownRefresh()},o.onReachBottom=async function(t,e){t.state,await t.dispatch(\"func1\",{})},o.func1=async function(e,o){e.state;let n;t.showLoading({title:\"\",mask:!1});try{n=await(async()=>{console.log(\"[func1#action68] dw.query\",t.query);let o={uuid:t.query.uuid||void 0};if(t.query.type){o={data__type:t.query.type}}console.log(\"[func1#action69] filters\",o);const n=await t.app.run(\"auto_group_mergeterms.list\",{aggs:{},limit:1,offset:0,filters:o,order_by:[\"data__order__int\",\"-id\"]});if(n.objects.length>=1){e.commit(\"setState\",{\"state.item\":n.objects[0]})}})()}finally{t.hideLoading()}};return e.default={actions:o},e.default}(dw),exports.default=dw._buildBenchComponent({storeOptions:storeOptions,systemStoreOptions:systemStoreOptions,workflowStoreOptions:workflowStoreOptions,extraComponents:extraComponents,computedModule:computedModule,fixtureID:fixtureID});"
+              },
+              "files": {
+                "dwapp_mobile.bench": {
+                  "key": "dwapp_mobile.bench",
+                  "type": "bench",
+                  "value": {
+                    "animate": {
+                      "in": {
+                        "autoplay": false,
+                        "cls": "slideInRight",
+                        "count": 1,
+                        "delay": 0,
+                        "duration": 500,
+                        "frames": [],
+                        "infinite": false,
+                        "randomid": "id_fc374f1b35d938fcffbe3f1f",
+                        "timing": "cubic-bezier(0.250, 0.250, 0.750, 0.750)",
+                        "type": "animatecss",
+                        "verbose_name": "CSS 动画"
+                      },
+                      "list": [],
+                      "out": {
+                        "autoplay": false,
+                        "cls": "slideOutLeft",
+                        "count": 1,
+                        "delay": 0,
+                        "duration": 500,
+                        "frames": [],
+                        "infinite": false,
+                        "randomid": "id_d4c231a9e2ef232520249613",
+                        "timing": "cubic-bezier(0.250, 0.250, 0.750, 0.750)",
+                        "type": "animatecss",
+                        "verbose_name": "CSS 动画"
+                      }
+                    },
+                    "artboard": {
+                      "height": "520px",
+                      "width": "320px"
+                    },
+                    "components": {
+                      "bag_if1": {
+                        "animate": {
+                          "class": null,
+                          "in": {},
+                          "list": [
+                            {
+                              "autoplay": false,
+                              "cls": null,
+                              "count": 1,
+                              "delay": 0,
+                              "duration": 1000,
+                              "frames": [
+                                {
+                                  "count": 1,
+                                  "css": {
+                                    "opacity": 1
+                                  },
+                                  "delay": 0,
+                                  "duration": 1000,
+                                  "path": null,
+                                  "timing": "cubic-bezier(0.250, 0.250, 0.750, 0.750)",
+                                  "transform": {
+                                    "rotateX": 0,
+                                    "rotateY": 0,
+                                    "rotateZ": 0,
+                                    "scale": 1,
+                                    "scaleX": 1,
+                                    "scaleY": 1,
+                                    "skewX": 0,
+                                    "skewY": 0,
+                                    "translateX": 0,
+                                    "translateY": 0,
+                                    "translateZ": 0
+                                  },
+                                  "transform_origin_xy": "50% 50%",
+                                  "transform_origin_z": 0,
+                                  "type": "default"
+                                }
+                              ],
+                              "infinite": false,
+                              "randomid": "id_daf62e93fd59c9ecb492ee12",
+                              "type": "frame",
+                              "verbose_name": "分步动画"
+                            }
+                          ],
+                          "out": {}
+                        },
+                        "group": "group1",
+                        "images": [],
+                        "is_active": false,
+                        "is_display": true,
+                        "is_lock": false,
+                        "key": "bag_if1",
+                        "meta_type": "vbench",
+                        "settings": {
+                          "code": "true === true",
+                          "computed": {
+                            "params": {},
+                            "type": "computed",
+                            "value": null
+                          },
+                          "left": "true",
+                          "match_type": "getter",
+                          "operator": "===",
+                          "right": "true",
+                          "self_hidden": false,
+                          "use_show_hidden": false
+                        },
+                        "store": {
+                          "actions": {},
+                          "getter": "item",
+                          "getters": {},
+                          "slots": {},
+                          "vmodel": false
+                        },
+                        "style": {
+                          "display": "block",
+                          "width": "100%"
+                        },
+                        "style_bag": {
+                          "display": "flex",
+                          "flex-direction": "row",
+                          "flex-wrap": "wrap"
+                        },
+                        "style_bench": {
+                          "-dm-transform-type": "rotate",
+                          "height": "100px",
+                          "left": "10px",
+                          "top": "10px",
+                          "transform": "rotate(0deg)",
+                          "width": "100px"
+                        },
+                        "style_container": {
+                          "overflow": "hidden",
+                          "padding": "0px 0px 0px 0px"
+                        },
+                        "style_item": {
+                          "flex-basis": "100%",
+                          "flex-grow": 1,
+                          "margin": "0rem",
+                          "max-width": "100%",
+                          "overflow": "hidden",
+                          "padding": "0rem"
+                        },
+                        "target": "_blank",
+                        "type": "bag_if"
+                      },
+                      "dwapp_richtext1": {
+                        "animate": {
+                          "class": null,
+                          "in": {},
+                          "list": [],
+                          "out": {}
+                        },
+                        "dwapp": {
+                          "base_dxml": "",
+                          "base_js": "",
+                          "base_wxss": "",
+                          "dxml": "\n      <wx-view class=\"s-dwbc-richtext\" :styles=\"slide.style_container\" :dw-href=\"slide.href\" :data-dwbc-store=\"slide.store\">\n        <wx-com-trichtext :value=\"dwtools.rComText(slide, context)\" :padding=\"slide.settings.padding\" :width=\"slide.style_bench.width\"></wx-com-trichtext>\n      </wx-view>\n    ",
+                          "js": "",
+                          "json": {},
+                          "wxss": ""
+                        },
+                        "group": "group1",
+                        "images": [],
+                        "is_active": false,
+                        "is_display": true,
+                        "is_lock": false,
+                        "key": "dwapp_richtext1",
+                        "last_modified": "2021-03-19T10:44:18.969",
+                        "meta_type": "vbench",
+                        "settings": {
+                          "padding": 0
+                        },
+                        "store": {
+                          "actions": {},
+                          "getters": {
+                            "value": "item.data.description"
+                          },
+                          "slots": {},
+                          "vmodel": false
+                        },
+                        "style": {
+                          "display": "block",
+                          "width": "100%"
+                        },
+                        "style_bag": {
+                          "display": "flex",
+                          "flex-direction": "row",
+                          "flex-wrap": "wrap"
+                        },
+                        "style_bench": {
+                          "-dm-transform-type": "rotate",
+                          "height": "300px",
+                          "left": "10px",
+                          "top": "10px",
+                          "transform": "rotate(0deg)",
+                          "width": "300px"
+                        },
+                        "style_container": {
+                          "overflow": "hidden",
+                          "padding": "0px 0px 0px 0px"
+                        },
+                        "style_item": {
+                          "flex-basis": "100%",
+                          "flex-grow": 1,
+                          "margin": "0rem",
+                          "max-width": "100%",
+                          "padding": "0.3125rem"
+                        },
+                        "target": "_self",
+                        "type": "dwapp_richtext",
+                        "value": "<p>这是一个小程序富文本</p>"
+                      },
+                      "dwapp_text2": {
+                        "animate": {
+                          "class": null,
+                          "in": {},
+                          "list": [],
+                          "out": {}
+                        },
+                        "dwapp": {
+                          "base_dxml": "",
+                          "base_js": "",
+                          "base_wxss": "",
+                          "dxml": "\n      <wx-view class=\"s-dwbc-text\" :styles=\"slide.style_container\" :dw-href=\"slide.href\" :data-dwbc-store=\"slide.store\">\n        <wx-view :styles=\"slide.style\">{{ dwtools.rComText(slide, context) }}</wx-view>\n      </wx-view>\n    ",
+                          "js": "",
+                          "json": {},
+                          "wxss": ""
+                        },
+                        "group": "group1",
+                        "images": [],
+                        "is_active": false,
+                        "is_display": true,
+                        "is_lock": false,
+                        "key": "dwapp_text2",
+                        "last_modified": "2021-03-19T10:13:21.050",
+                        "meta_type": "vbench",
+                        "settings": {},
+                        "store": {
+                          "actions": {},
+                          "getters": {
+                            "value": "item.data.name"
+                          },
+                          "slots": {},
+                          "vmodel": false
+                        },
+                        "style": {
+                          "-dm-font-not_compressed": false,
+                          "color": "rgb(0, 0, 0)",
+                          "font-family": "inherit",
+                          "font-size": "14px",
+                          "font-weight": "bold",
+                          "letter-spacing": "unset",
+                          "line-height": "40px",
+                          "text-align": "center"
+                        },
+                        "style_bag": {
+                          "display": "flex",
+                          "flex-direction": "row",
+                          "flex-wrap": "wrap"
+                        },
+                        "style_bench": {
+                          "-dm-transform-type": "rotate",
+                          "height": "30px",
+                          "left": "10px",
+                          "top": "10px",
+                          "transform": "rotate(0deg)",
+                          "width": "100px"
+                        },
+                        "style_container": {
+                          "border-bottom": "1px solid rgb(238, 238, 238)",
+                          "overflow": "hidden",
+                          "padding": "0px 0px 0px 0px"
+                        },
+                        "style_item": {
+                          "flex-basis": "100%",
+                          "flex-grow": 1,
+                          "margin": "0rem",
+                          "max-width": "100%",
+                          "padding": "0.3125rem"
+                        },
+                        "target": "_self",
+                        "type": "dwapp_text",
+                        "value": "协议加载完成"
+                      }
+                    },
+                    "components_layout": [
+                      {
+                        "key": "bag_if1",
+                        "z-index": 1
+                      },
+                      {
+                        "key": "dwapp_text2",
+                        "z-index": 2
+                      },
+                      {
+                        "key": "dwapp_richtext1",
+                        "z-index": 3
+                      }
+                    ],
+                    "dlayout": {
+                      "engine": "vue",
+                      "key": "_root",
+                      "nodes": [
+                        {
+                          "key": "bag_if1",
+                          "nodes": [
+                            {
+                              "key": "dwapp_text2",
+                              "nodes": [],
+                              "open": true
+                            },
+                            {
+                              "key": "dwapp_richtext1",
+                              "nodes": [],
+                              "open": true
+                            }
+                          ],
+                          "open": true
+                        }
+                      ],
+                      "style_bag": {
+                        "display": "flex",
+                        "flex-direction": "row",
+                        "flex-wrap": "wrap",
+                        "margin-left": "auto",
+                        "margin-right": "auto",
+                        "max-width": "34.375rem"
+                      },
+                      "type": "dom"
+                    },
+                    "fixture_id": null,
+                    "fixtures": [],
+                    "groups": {
+                      "group1": {
+                        "is_open": true,
+                        "key": "group1",
+                        "name": "分组1"
+                      }
+                    },
+                    "meta": {
+                      "version": 1
+                    },
+                    "name": "vbench",
+                    "platform": "dwapp",
+                    "style": {
+                      "height": "520px",
+                      "width": "320px"
+                    },
+                    "type": "vbench",
+                    "update_policy": "replace",
+                    "view": {
+                      "extraComponents": {},
+                      "store": "my_store_dwapp_mobile.js",
+                      "stores": []
+                    },
+                    "xbench": null
+                  }
+                },
+                "dwapp_mobile.wxss": {
+                  "key": "dwapp_mobile.wxss",
+                  "type": "wxss",
+                  "value": ".id_d00723ca5dc15c84b2cb4661 image,\n.id_d00723ca5dc15c84b2cb4661 view {\n  box-sizing: border-box; }\n\n"
+                },
+                "my_store_dwapp_mobile.js": {
+                  "key": "my_store_dwapp_mobile.js",
+                  "type": "js",
+                  "value": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = {};\n//# sourceURL=papp_259749_my_store_dwapp_mobile.js"
+                }
+              }
+            },
+            "dependencies": [
+              {
+                "description": "A javascript package.",
+                "name": "comtrichtext",
+                "type": "dwapp_plugin",
+                "url": "",
+                "variable": "",
+                "version": "1.0.0"
+              }
+            ],
+            "deps": [],
+            "dwapp": {
+              "json": {
+                "_disableWebPullDownRefresh": false,
+                "_disableWebReachBottom": false,
+                "backgroundColor": "#ffffff",
+                "backgroundTextStyle": "dark",
+                "disableScroll": false,
+                "enablePullDownRefresh": true,
+                "navigationBarBackgroundColor": "rgb(255, 255, 255)",
+                "navigationBarTextStyle": "black",
+                "navigationBarTitleText": "小程序页面",
+                "onReachBottomDistance": 50
+              }
+            },
+            "id": 259749,
+            "is_component": true,
+            "is_display": true,
+            "is_slide": false,
+            "is_vue": false,
+            "items": [],
+            "key": "c2597491",
+            "master_dataset_id": 400691,
+            "master_pagetemplate_id": 168072,
+            "master_papp_id": 475015,
+            "meta": {
+              "build_entry": "",
+              "build_type": "default",
+              "is_multiple_admin_page": false,
+              "multiple_admin_pages": [],
+              "page_groups": [
+                {
+                  "name": "基础页面",
+                  "slug": "default"
+                }
+              ],
+              "papp_page_slug": "mergetermsdetail",
+              "papp_slug": "tongzhua",
+              "preload": false,
+              "preload_action": "",
+              "price": 0,
+              "ssr": false,
+              "ssr_action": "",
+              "ssr_inline": false,
+              "ssr_only": false,
+              "sync_parent_dapp": false,
+              "target": "ES5"
+            },
+            "model": "product",
+            "name": "[合并]服务协议详情",
+            "pagecomponent_id": 2699158,
+            "platform": "dwapp_mobile",
+            "randomid": "id_d00723ca5dc15c84b2cb4661",
+            "screen": "papp",
+            "style": {
+              "container": {
+                "display": "block",
+                "margin-left": "auto",
+                "margin-right": "auto",
+                "max-width": "34.375rem"
+              },
+              "root": {
+                "background-blend-mode": "normal",
+                "display": "block",
+                "padding": "0rem",
+                "z-index": "0"
+              }
+            },
+            "style_bench": {
+              "-dm-transform-type": "rotate",
+              "height": "320px",
+              "left": "10px",
+              "overflow": "visible",
+              "top": "0px",
+              "transform": "rotate(0deg)",
+              "transform-style": "preserve-3d",
+              "width": "320px",
+              "z-index": 1
+            },
+            "template_id": 259749,
+            "type": "259749",
+            "vars": {}
+          },
+          "template": "\n    <section id=\"id_d00723ca5dc15c84b2cb4661\" style=\"background-blend-mode: normal; display: block; z-index: 0; padding: 0rem;\">\n      undefined\n    </section>\n  "
+        }
+      },
+      "components_layout": [
+        {
+          "id": 2699158,
+          "key": "c2597491",
+          "z-index": 1
+        }
+      ],
+      "css": "",
+      "template": "\n      <dwapp-slide-container>\n        <section class=\"s-dwvapp-slide\" style=\"background-color: #ffffff;padding-top: 0rem;padding-bottom: 0rem\">\n          <component-c2597491></component-c2597491>\n        </section>\n      </dwapp-slide-container>\n    "
+    },
+    "app_tongzhua-mergetermslist": {
+      "components": {
+        "component-c2597501": {
+          "components": {},
+          "slide": {
+            "alias": "[合并]服务协议列表",
+            "base_template": "",
+            "category": "build",
+            "category2": "item",
+            "category3": "papp_page",
+            "class": [
+              "id_9e048b2e7621d5c2f7b8fd27"
+            ],
+            "components": {},
+            "components_layout": [],
+            "css": "",
+            "css_ctx": {},
+            "dapp": {
+              "__build_js": {
+                "dwapp_mobile": "\"use strict\";Object.defineProperty(exports,\"__esModule\",{value:!0});var extraComponents={},storeOptions=null,systemStoreOptions=[],workflowStoreOptions={},computedModule={},fixtureID=null;storeOptions=require(\"./my_store_dwapp_mobile.js\").default,workflowStoreOptions=function(e){e.app;var t={};function r(e,t,r){return t in e?Object.defineProperty(e,t,{value:r,enumerable:!0,configurable:!0,writable:!0}):e[t]=r,e}function n(e){return function(){var t=e.apply(this,arguments);return new Promise((function(e,r){return function n(o,s){try{var a=t[o](s),u=a.value}catch(e){return void r(e)}if(!a.done)return Promise.resolve(u).then((function(e){n(\"next\",e)}),(function(e){n(\"throw\",e)}));e(u)}(\"next\")}))}}Object.defineProperty(t,\"__esModule\",{value:!0});var o,s,a,u,i={},c=!1;i.onCreateState=function(e,t){var r=e.state;r.items=[],r.query={limit:10,offset:0},r.query.limit=10,r.query.offset=0,r.reachBottom=!1;return r},i.onShow=(o=n(regeneratorRuntime.mark((function e(t,r){return regeneratorRuntime.wrap((function(e){for(;;)switch(e.prev=e.next){case 0:return t.state,e.next=3,t.dispatch(\"func1\",{});case 3:e.sent;case 4:case\"end\":return e.stop()}}),e,this)}))),function(e,t){return o.apply(this,arguments)}),i.onPullDownRefresh=(s=n(regeneratorRuntime.mark((function t(n,o){var s;return regeneratorRuntime.wrap((function(t){for(;;)switch(t.prev=t.next){case 0:return n.state,n.commit(\"setState\",(r(s={},\"state.query.offset\",0),r(s,\"state.reachBottom\",!1),s)),t.next=4,n.dispatch(\"func1\",{});case 4:t.sent,e.wx.stopPullDownRefresh();case 6:case\"end\":return t.stop()}}),t,this)}))),function(e,t){return s.apply(this,arguments)}),i.onReachBottom=(a=n(regeneratorRuntime.mark((function e(t,n){var o;return regeneratorRuntime.wrap((function(e){for(;;)switch(e.prev=e.next){case 0:if(!(o=t.state).reachBottom){e.next=3;break}return e.abrupt(\"return\",o);case 3:return t.commit(\"setState\",r({},\"state.query.offset\",o.query.offset+o.query.limit)),e.next=6,t.dispatch(\"func1\",{});case 6:e.sent;case 7:case\"end\":return e.stop()}}),e,this)}))),function(e,t){return a.apply(this,arguments)}),i.func1=(u=n(regeneratorRuntime.mark((function t(o,s){var a,u=this;return regeneratorRuntime.wrap((function(t){for(;;)switch(t.prev=t.next){case 0:return a=o.state,t.next=3,n(regeneratorRuntime.mark((function t(){var n;return regeneratorRuntime.wrap((function(t){for(;;)switch(t.prev=t.next){case 0:if(!c){t.next=2;break}return t.abrupt(\"return\",!0);case 2:return c=!0,t.prev=3,t.next=6,e.app.run(\"auto_group_mergeterms.list\",{aggs:{},limit:a.query.limit,offset:a.query.offset,filters:{},order_by:[\"data__order__int\",\"-id\"]});case 6:0===(n=t.sent).meta.offset?o.commit(\"setState\",r({},\"state.items\",n.objects)):o.commit(\"setState\",r({},\"state.items__uconcat\",{field:\"id\",list:n.objects})),n.objects.length<a.query.limit&&o.commit(\"setState\",r({},\"state.reachBottom\",!0)),t.next=14;break;case 11:throw t.prev=11,t.t0=t.catch(3),t.t0;case 14:return t.prev=14,c=!1,t.finish(14);case 17:case\"end\":return t.stop()}}),t,u,[[3,11,14,17]])})))();case 3:t.sent;case 4:case\"end\":return t.stop()}}),t,this)}))),function(e,t){return u.apply(this,arguments)});return t.default={actions:i},t.default}(dw),computedModule=function(){window._WXS_GLOBAL.getDate,window._WXS_GLOBAL.getRegExp;return{}.exports}(),exports.default=dw._buildBenchComponent({storeOptions:storeOptions,systemStoreOptions:systemStoreOptions,workflowStoreOptions:workflowStoreOptions,extraComponents:extraComponents,computedModule:computedModule,fixtureID:fixtureID});"
+              },
+              "files": {
+                "dwapp_mobile.bench": {
+                  "key": "dwapp_mobile.bench",
+                  "type": "bench",
+                  "value": {
+                    "animate": {
+                      "in": {
+                        "autoplay": false,
+                        "cls": "slideInRight",
+                        "count": 1,
+                        "delay": 0,
+                        "duration": 500,
+                        "frames": [],
+                        "infinite": false,
+                        "randomid": "id_fc374f1b35d938fcffbe3f1f",
+                        "timing": "cubic-bezier(0.250, 0.250, 0.750, 0.750)",
+                        "type": "animatecss",
+                        "verbose_name": "CSS 动画"
+                      },
+                      "list": [],
+                      "out": {
+                        "autoplay": false,
+                        "cls": "slideOutLeft",
+                        "count": 1,
+                        "delay": 0,
+                        "duration": 500,
+                        "frames": [],
+                        "infinite": false,
+                        "randomid": "id_d4c231a9e2ef232520249613",
+                        "timing": "cubic-bezier(0.250, 0.250, 0.750, 0.750)",
+                        "type": "animatecss",
+                        "verbose_name": "CSS 动画"
+                      }
+                    },
+                    "artboard": {
+                      "height": "520px",
+                      "width": "320px"
+                    },
+                    "components": {
+                      "bag_for1": {
+                        "animate": {
+                          "class": null,
+                          "in": {},
+                          "list": [
+                            {
+                              "autoplay": false,
+                              "cls": null,
+                              "count": 1,
+                              "delay": 0,
+                              "duration": 1000,
+                              "frames": [
+                                {
+                                  "count": 1,
+                                  "css": {
+                                    "opacity": 1
+                                  },
+                                  "delay": 0,
+                                  "duration": 1000,
+                                  "path": null,
+                                  "timing": "cubic-bezier(0.250, 0.250, 0.750, 0.750)",
+                                  "transform": {
+                                    "rotateX": 0,
+                                    "rotateY": 0,
+                                    "rotateZ": 0,
+                                    "scale": 1,
+                                    "scaleX": 1,
+                                    "scaleY": 1,
+                                    "skewX": 0,
+                                    "skewY": 0,
+                                    "translateX": 0,
+                                    "translateY": 0,
+                                    "translateZ": 0
+                                  },
+                                  "transform_origin_xy": "50% 50%",
+                                  "transform_origin_z": 0,
+                                  "type": "default"
+                                }
+                              ],
+                              "infinite": false,
+                              "randomid": "id_b90cb66c9b00e8429516df41",
+                              "type": "frame",
+                              "verbose_name": "分步动画"
+                            }
+                          ],
+                          "out": {}
+                        },
+                        "group": "group1",
+                        "images": [],
+                        "is_active": false,
+                        "is_display": true,
+                        "is_lock": false,
+                        "key": "bag_for1",
+                        "last_modified": "2021-03-19T10:13:05.959",
+                        "meta_type": "vbench",
+                        "settings": {
+                          "forKey": "id"
+                        },
+                        "store": {
+                          "actions": {},
+                          "getter": "",
+                          "getters": {
+                            "items": "items"
+                          },
+                          "slots": {},
+                          "vmodel": false
+                        },
+                        "style": {
+                          "display": "block",
+                          "width": "100%"
+                        },
+                        "style_bag": {
+                          "background-color": "rgb(255, 255, 255)",
+                          "display": "flex",
+                          "flex-direction": "row",
+                          "flex-wrap": "wrap"
+                        },
+                        "style_bench": {
+                          "-dm-transform-type": "rotate",
+                          "height": "100px",
+                          "left": "10px",
+                          "top": "10px",
+                          "transform": "rotate(0deg)",
+                          "width": "100px"
+                        },
+                        "style_container": {
+                          "overflow": "hidden",
+                          "padding": "0px 0px 0px 0px"
+                        },
+                        "style_item": {
+                          "flex-basis": "100%",
+                          "flex-grow": 1,
+                          "margin": "0rem",
+                          "max-width": "100%",
+                          "overflow": "hidden",
+                          "padding": "0rem"
+                        },
+                        "target": "_blank",
+                        "type": "bag_for"
+                      },
+                      "bag_if1": {
+                        "animate": {
+                          "class": null,
+                          "in": {},
+                          "list": [
+                            {
+                              "autoplay": false,
+                              "cls": null,
+                              "count": 1,
+                              "delay": 0,
+                              "duration": 1000,
+                              "frames": [
+                                {
+                                  "count": 1,
+                                  "css": {
+                                    "opacity": 1
+                                  },
+                                  "delay": 0,
+                                  "duration": 1000,
+                                  "path": null,
+                                  "timing": "cubic-bezier(0.250, 0.250, 0.750, 0.750)",
+                                  "transform": {
+                                    "rotateX": 0,
+                                    "rotateY": 0,
+                                    "rotateZ": 0,
+                                    "scale": 1,
+                                    "scaleX": 1,
+                                    "scaleY": 1,
+                                    "skewX": 0,
+                                    "skewY": 0,
+                                    "translateX": 0,
+                                    "translateY": 0,
+                                    "translateZ": 0
+                                  },
+                                  "transform_origin_xy": "50% 50%",
+                                  "transform_origin_z": 0,
+                                  "type": "default"
+                                }
+                              ],
+                              "infinite": false,
+                              "randomid": "id_daf62e93fd59c9ecb492ee12",
+                              "type": "frame",
+                              "verbose_name": "分步动画"
+                            }
+                          ],
+                          "out": {}
+                        },
+                        "group": "group1",
+                        "images": [],
+                        "is_active": false,
+                        "is_display": true,
+                        "is_lock": false,
+                        "key": "bag_if1",
+                        "meta_type": "vbench",
+                        "settings": {
+                          "code": "true === true",
+                          "computed": {
+                            "params": {},
+                            "type": "computed",
+                            "value": null
+                          },
+                          "left": "true",
+                          "match_type": "getter",
+                          "operator": "===",
+                          "right": "true",
+                          "self_hidden": false,
+                          "use_show_hidden": false
+                        },
+                        "store": {
+                          "actions": {},
+                          "getter": "reachBottom",
+                          "getters": {},
+                          "slots": {},
+                          "vmodel": false
+                        },
+                        "style": {
+                          "display": "block",
+                          "width": "100%"
+                        },
+                        "style_bag": {
+                          "display": "flex",
+                          "flex-direction": "row",
+                          "flex-wrap": "wrap"
+                        },
+                        "style_bench": {
+                          "-dm-transform-type": "rotate",
+                          "height": "100px",
+                          "left": "10px",
+                          "top": "10px",
+                          "transform": "rotate(0deg)",
+                          "width": "100px"
+                        },
+                        "style_container": {
+                          "overflow": "hidden",
+                          "padding": "0px 0px 0px 0px"
+                        },
+                        "style_item": {
+                          "flex-basis": "100%",
+                          "flex-grow": 1,
+                          "margin": "0rem",
+                          "max-width": "100%",
+                          "overflow": "hidden",
+                          "padding": "0rem"
+                        },
+                        "target": "_blank",
+                        "type": "bag_if"
+                      },
+                      "bag_link1": {
+                        "animate": {
+                          "class": null,
+                          "in": {},
+                          "list": [],
+                          "out": {}
+                        },
+                        "group": "group1",
+                        "images": [],
+                        "is_active": true,
+                        "is_display": true,
+                        "is_lock": false,
+                        "key": "bag_link1",
+                        "last_modified": "2021-03-19T10:30:35.069",
+                        "meta_type": "vbench",
+                        "settings": {},
+                        "store": {
+                          "actions": {},
+                          "getters": {
+                            "key1": {
+                              "params": {},
+                              "type": "constant",
+                              "value": "\"uuid\""
+                            },
+                            "page": {
+                              "params": {},
+                              "type": "constant",
+                              "value": "\"mergetermsdetail\""
+                            },
+                            "value1": "@forloop.bagForItem.uuid"
+                          },
+                          "slots": {},
+                          "vmodel": false
+                        },
+                        "style": {
+                          "display": "block",
+                          "width": "100%"
+                        },
+                        "style_bag": {
+                          "border-bottom": "1px solid rgb(241, 241, 241)",
+                          "display": "flex",
+                          "flex-direction": "row",
+                          "flex-wrap": "wrap"
+                        },
+                        "style_bench": {
+                          "-dm-transform-type": "rotate",
+                          "height": "100px",
+                          "left": "10px",
+                          "top": "10px",
+                          "transform": "rotate(0deg)",
+                          "width": "100px"
+                        },
+                        "style_container": {
+                          "overflow": "hidden",
+                          "padding": "0px 0px 0px 0px"
+                        },
+                        "style_item": {
+                          "flex-basis": "100%",
+                          "flex-grow": 1,
+                          "margin": "0rem",
+                          "max-width": "100%",
+                          "padding": "0rem"
+                        },
+                        "target": "_self",
+                        "type": "bag_link"
+                      },
+                      "c182471": {
+                        "animate": {
+                          "class": null,
+                          "in": {},
+                          "list": [],
+                          "out": {}
+                        },
+                        "group": "group1",
+                        "images": [],
+                        "is_active": false,
+                        "is_display": true,
+                        "is_lock": false,
+                        "key": "c182471",
+                        "last_modified": "2021-03-19T10:32:24.973",
+                        "meta_type": "vbench",
+                        "settings": {},
+                        "slide": {
+                          "alias": "日期时间格式化",
+                          "animate_list": [],
+                          "base_template": "",
+                          "category": "build",
+                          "category2": "item",
+                          "category3": "vbench",
+                          "class": [
+                            "id_ab22b9bee6a70f4f9982c55c"
+                          ],
+                          "components": {},
+                          "components_layout": [],
+                          "css": "",
+                          "css_ctx": {
+                            "color1": {
+                              "key": "color1",
+                              "type": "color",
+                              "value": "rgb(51, 51, 51)"
+                            },
+                            "font1": {
+                              "key": "font1",
+                              "type": "font",
+                              "value": "inherit"
+                            },
+                            "range_rem1": {
+                              "factor": "32",
+                              "key": "range_rem1",
+                              "type": "range_rem",
+                              "unit": "px",
+                              "value": "12px",
+                              "value_factor": "0.375rem",
+                              "value_key": "value_factor"
+                            },
+                            "range_rem2": {
+                              "factor": "32",
+                              "key": "range_rem2",
+                              "type": "range_rem",
+                              "unit": "px",
+                              "value": "20px",
+                              "value_factor": "0.625rem",
+                              "value_key": "value_factor"
+                            },
+                            "select1": {
+                              "choices_type": "default",
+                              "key": "select1",
+                              "props_key": "format",
+                              "type": "select",
+                              "value": "date"
+                            },
+                            "select2": {
+                              "choices_type": "default",
+                              "key": "select2",
+                              "type": "select",
+                              "value": "inherit"
+                            },
+                            "select3": {
+                              "choices_type": "default",
+                              "key": "select3",
+                              "type": "select",
+                              "value": "normal"
+                            },
+                            "text1": {
+                              "key": "text1",
+                              "props_key": "value",
+                              "type": "text",
+                              "value": "1926-08-17T14:00:12.506"
+                            }
+                          },
+                          "dapp": {
+                            "files": {
+                              "dwapp_mobile.wjs": {
+                                "key": "dwapp_mobile.wjs",
+                                "type": "wjs",
+                                "value": "\"use strict\";Object.defineProperty(exports,\"__esModule\",{value:!0}),exports.default={data:{lock:!1},onShow:function(){},methods:{load:function(){}}};"
+                              },
+                              "dwapp_mobile.wxml": {
+                                "key": "dwapp_mobile.wxml",
+                                "type": "wxml",
+                                "value": "<wx-view class=\"b-text--format-date\">\n  <wx-wxs module=\"dwtools\"></wx-wxs>\n  {{ dwtools.dateformat(context.value, context.format) }}\n</wx-view>\n"
+                              }
+                            }
+                          },
+                          "dependencies": [],
+                          "deps": [],
+                          "dwapp": {
+                            "json": {
+                              "_disableWebPullDownRefresh": false,
+                              "_disableWebReachBottom": false,
+                              "_onContextChange": false,
+                              "backgroundColor": "#ffffff",
+                              "backgroundTextStyle": "dark",
+                              "disableScroll": false,
+                              "enablePullDownRefresh": false,
+                              "navigationBarBackgroundColor": "#ffffff",
+                              "navigationBarTextStyle": "black",
+                              "navigationBarTitleText": "小程序页面",
+                              "onReachBottomDistance": 50
+                            }
+                          },
+                          "font_animate_list": [],
+                          "id": 18247,
+                          "is_component": true,
+                          "is_slide": false,
+                          "is_vue": false,
+                          "items": [],
+                          "meta": {
+                            "page_groups": [
+                              {
+                                "name": "基础页面",
+                                "slug": "default"
+                              }
+                            ],
+                            "preload": false,
+                            "preload_action": "",
+                            "ssr": false,
+                            "ssr_action": "",
+                            "ssr_inline": false,
+                            "ssr_only": false
+                          },
+                          "model": "product",
+                          "name": "日期时间格式化",
+                          "platform": "dwapp_mobile",
+                          "randomid": "id_1093ebd653a31a3ad75b31bb",
+                          "screen": "papp",
+                          "style": {
+                            "container": {
+                              "display": "block",
+                              "margin-left": "auto",
+                              "margin-right": "auto",
+                              "max-width": "1100px",
+                              "perspective": "unset"
+                            },
+                            "root": {
+                              "background-blend-mode": "normal",
+                              "display": "block",
+                              "padding": "0rem",
+                              "z-index": "0"
+                            }
+                          },
+                          "style_bench": {
+                            "-dm-transform-type": "none",
+                            "height": "320px",
+                            "overflow": "visible",
+                            "transform": "unset",
+                            "transform-style": "unset",
+                            "width": "320px"
+                          },
+                          "template_id": 18247,
+                          "type": "18247"
+                        },
+                        "store": {
+                          "actions": {},
+                          "getters": {
+                            "value": "@forloop.bagForItem.last_modified"
+                          },
+                          "slots": {},
+                          "vmodel": false
+                        },
+                        "style": {
+                          "display": "block",
+                          "width": "100%"
+                        },
+                        "style_bag": {
+                          "display": "flex",
+                          "flex-direction": "row",
+                          "flex-wrap": "wrap"
+                        },
+                        "style_bench": {
+                          "-dm-transform-type": "rotate",
+                          "height": "320px",
+                          "left": "10px",
+                          "top": "10px",
+                          "transform": "rotate(0deg)",
+                          "width": "320px"
+                        },
+                        "style_container": {
+                          "overflow": "visible",
+                          "padding": "0px 0px 0px 0px"
+                        },
+                        "style_item": {
+                          "flex-basis": "auto",
+                          "flex-grow": 0,
+                          "margin": "0rem 0rem 0rem auto",
+                          "max-width": "100%",
+                          "padding": "0.3125rem"
+                        },
+                        "target": "_self",
+                        "type": "dwapp_cloud"
+                      },
+                      "dwapp_text1": {
+                        "animate": {
+                          "class": null,
+                          "in": {},
+                          "list": [],
+                          "out": {}
+                        },
+                        "dwapp": {
+                          "base_dxml": "",
+                          "base_js": "",
+                          "base_wxss": "",
+                          "dxml": "\n      <wx-view class=\"s-dwbc-text\" :styles=\"slide.style_container\" :dw-href=\"slide.href\" :data-dwbc-store=\"slide.store\">\n        <wx-view :styles=\"slide.style\">{{ dwtools.rComText(slide, context) }}</wx-view>\n      </wx-view>\n    ",
+                          "js": "",
+                          "json": {},
+                          "wxss": ""
+                        },
+                        "group": "group1",
+                        "images": [],
+                        "is_active": false,
+                        "is_display": true,
+                        "is_lock": false,
+                        "key": "dwapp_text1",
+                        "last_modified": "2021-03-19T10:13:08.982",
+                        "meta_type": "vbench",
+                        "settings": {},
+                        "store": {
+                          "actions": {},
+                          "getters": {
+                            "value": "@forloop.bagForItem.data.name"
+                          },
+                          "slots": {},
+                          "vmodel": false
+                        },
+                        "style": {
+                          "-dm-font-not_compressed": false,
+                          "color": "#000",
+                          "font-family": "inherit",
+                          "font-size": "12px",
+                          "font-weight": "normal",
+                          "letter-spacing": "unset",
+                          "line-height": "20px",
+                          "text-align": "inherit"
+                        },
+                        "style_bag": {
+                          "display": "flex",
+                          "flex-direction": "row",
+                          "flex-wrap": "wrap"
+                        },
+                        "style_bench": {
+                          "-dm-transform-type": "rotate",
+                          "height": "30px",
+                          "left": "10px",
+                          "top": "10px",
+                          "transform": "rotate(0deg)",
+                          "width": "100px"
+                        },
+                        "style_container": {
+                          "overflow": "hidden",
+                          "padding": "0px 0px 0px 0px"
+                        },
+                        "style_item": {
+                          "flex-basis": "auto",
+                          "flex-grow": 0,
+                          "margin": "0rem",
+                          "max-width": "100%",
+                          "padding": "0.3125rem"
+                        },
+                        "target": "_self",
+                        "type": "dwapp_text",
+                        "value": "这是一个小程序文本"
+                      },
+                      "dwapp_text2": {
+                        "animate": {
+                          "class": null,
+                          "in": {},
+                          "list": [],
+                          "out": {}
+                        },
+                        "dwapp": {
+                          "base_dxml": "",
+                          "base_js": "",
+                          "base_wxss": "",
+                          "dxml": "\n      <wx-view class=\"s-dwbc-text\" :styles=\"slide.style_container\" :dw-href=\"slide.href\" :data-dwbc-store=\"slide.store\">\n        <wx-view :styles=\"slide.style\">{{ dwtools.rComText(slide, context) }}</wx-view>\n      </wx-view>\n    ",
+                          "js": "",
+                          "json": {},
+                          "wxss": ""
+                        },
+                        "group": "group1",
+                        "images": [],
+                        "is_active": false,
+                        "is_display": true,
+                        "is_lock": false,
+                        "key": "dwapp_text2",
+                        "last_modified": "2021-03-19T10:13:21.050",
+                        "meta_type": "vbench",
+                        "settings": {},
+                        "store": {
+                          "actions": {},
+                          "getters": {},
+                          "slots": {},
+                          "vmodel": false
+                        },
+                        "style": {
+                          "-dm-font-not_compressed": false,
+                          "color": "rgb(153, 153, 153)",
+                          "font-family": "inherit",
+                          "font-size": "10px",
+                          "font-weight": "normal",
+                          "letter-spacing": "unset",
+                          "line-height": "20px",
+                          "text-align": "center"
+                        },
+                        "style_bag": {
+                          "display": "flex",
+                          "flex-direction": "row",
+                          "flex-wrap": "wrap"
+                        },
+                        "style_bench": {
+                          "-dm-transform-type": "rotate",
+                          "height": "30px",
+                          "left": "10px",
+                          "top": "10px",
+                          "transform": "rotate(0deg)",
+                          "width": "100px"
+                        },
+                        "style_container": {
+                          "overflow": "hidden",
+                          "padding": "0px 0px 0px 0px"
+                        },
+                        "style_item": {
+                          "flex-basis": "100%",
+                          "flex-grow": 1,
+                          "margin": "0rem",
+                          "max-width": "100%",
+                          "padding": "0.3125rem"
+                        },
+                        "target": "_self",
+                        "type": "dwapp_text",
+                        "value": "协议加载完成"
+                      }
+                    },
+                    "components_layout": [
+                      {
+                        "key": "bag_for1",
+                        "z-index": 1
+                      },
+                      {
+                        "key": "bag_if1",
+                        "z-index": 2
+                      },
+                      {
+                        "key": "dwapp_text1",
+                        "z-index": 3
+                      },
+                      {
+                        "key": "dwapp_text2",
+                        "z-index": 4
+                      },
+                      {
+                        "key": "bag_link1",
+                        "z-index": 5
+                      },
+                      {
+                        "key": "c182471",
+                        "z-index": 6
+                      }
+                    ],
+                    "dlayout": {
+                      "engine": "vue",
+                      "key": "_root",
+                      "nodes": [
+                        {
+                          "key": "bag_for1",
+                          "nodes": [
+                            {
+                              "key": "bag_link1",
+                              "nodes": [
+                                {
+                                  "key": "dwapp_text1",
+                                  "nodes": [],
+                                  "open": true
+                                },
+                                {
+                                  "key": "c182471",
+                                  "nodes": [],
+                                  "open": true
+                                }
+                              ],
+                              "open": true
+                            }
+                          ],
+                          "open": true
+                        },
+                        {
+                          "key": "bag_if1",
+                          "nodes": [
+                            {
+                              "key": "dwapp_text2",
+                              "nodes": [],
+                              "open": true
+                            }
+                          ],
+                          "open": true
+                        }
+                      ],
+                      "style_bag": {
+                        "display": "flex",
+                        "flex-direction": "row",
+                        "flex-wrap": "wrap",
+                        "margin-left": "auto",
+                        "margin-right": "auto",
+                        "max-width": "34.375rem"
+                      },
+                      "type": "dom"
+                    },
+                    "fixture_id": null,
+                    "fixtures": [],
+                    "groups": {
+                      "group1": {
+                        "is_open": true,
+                        "key": "group1",
+                        "name": "分组1"
+                      }
+                    },
+                    "meta": {
+                      "version": 1
+                    },
+                    "name": "vbench",
+                    "platform": "dwapp",
+                    "style": {
+                      "height": "520px",
+                      "width": "320px"
+                    },
+                    "type": "vbench",
+                    "update_policy": "replace",
+                    "view": {
+                      "extraComponents": {},
+                      "store": "my_store_dwapp_mobile.js",
+                      "stores": []
+                    }
+                  }
+                },
+                "dwapp_mobile.wxss": {
+                  "key": "dwapp_mobile.wxss",
+                  "type": "wxss",
+                  "value": ".id_9e048b2e7621d5c2f7b8fd27 image,\n.id_9e048b2e7621d5c2f7b8fd27 view {\n  box-sizing: border-box; }\n\n"
+                },
+                "my_store_dwapp_mobile.js": {
+                  "key": "my_store_dwapp_mobile.js",
+                  "type": "js",
+                  "value": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = {};\n//# sourceURL=papp_59802_my_store_dwapp_mobile.js"
+                }
+              }
+            },
+            "dependencies": [],
+            "deps": [],
+            "dwapp": {
+              "json": {
+                "_disableWebPullDownRefresh": false,
+                "_disableWebReachBottom": false,
+                "backgroundColor": "#ffffff",
+                "backgroundTextStyle": "dark",
+                "disableScroll": false,
+                "enablePullDownRefresh": true,
+                "navigationBarBackgroundColor": "rgb(255, 255, 255)",
+                "navigationBarTextStyle": "black",
+                "navigationBarTitleText": "小程序页面",
+                "onReachBottomDistance": 50
+              }
+            },
+            "id": 59802,
+            "is_component": true,
+            "is_display": true,
+            "is_slide": false,
+            "is_vue": false,
+            "items": [],
+            "key": "c2597501",
+            "master_dataset_id": 400691,
+            "master_pagetemplate_id": 168072,
+            "master_papp_id": 475015,
+            "meta": {
+              "build_entry": "",
+              "build_type": "default",
+              "is_multiple_admin_page": false,
+              "multiple_admin_pages": [],
+              "page_groups": [
+                {
+                  "name": "基础页面",
+                  "slug": "default"
+                }
+              ],
+              "papp_page_slug": "mergetermslist",
+              "papp_slug": "tongzhua",
+              "preload": false,
+              "preload_action": "",
+              "price": 0,
+              "ssr": false,
+              "ssr_action": "",
+              "ssr_inline": false,
+              "ssr_only": false,
+              "target": "ES5"
+            },
+            "model": "product",
+            "name": "[合并]服务协议列表",
+            "pagecomponent_id": 2730841,
+            "platform": "dwapp_mobile",
+            "randomid": "id_9e048b2e7621d5c2f7b8fd27",
+            "screen": "papp",
+            "style": {
+              "container": {
+                "display": "block",
+                "margin-left": "auto",
+                "margin-right": "auto",
+                "max-width": "34.375rem"
+              },
+              "root": {
+                "background-blend-mode": "normal",
+                "display": "block",
+                "padding": "0rem",
+                "z-index": "0"
+              }
+            },
+            "style_bench": {
+              "-dm-transform-type": "rotate",
+              "height": "320px",
+              "left": "50px",
+              "overflow": "visible",
+              "top": "0px",
+              "transform": "rotate(0deg)",
+              "transform-style": "preserve-3d",
+              "width": "320px",
+              "z-index": 1
+            },
+            "template_id": 259750,
+            "type": "259750",
+            "vars": {}
+          },
+          "template": "\n    <section id=\"id_9e048b2e7621d5c2f7b8fd27\" style=\"background-blend-mode: normal; display: block; z-index: 0; padding: 0rem;\">\n      undefined\n    </section>\n  "
+        }
+      },
+      "components_layout": [
+        {
+          "id": 2730841,
+          "key": "c2597501",
+          "z-index": 1
+        }
+      ],
+      "css": ".id_1093ebd653a31a3ad75b31bb .b-text--format-date{font-size:.375rem;color:#333;font-family:inherit;text-align:inherit;line-height:.625rem;font-weight:400}",
+      "template": "\n      <dwapp-slide-container>\n        <section class=\"s-dwvapp-slide\" style=\"background-color: #ffffff;padding-top: 0rem;padding-bottom: 0rem\">\n          <component-c2597501></component-c2597501>\n        </section>\n      </dwapp-slide-container>\n    "
+    },
+    "app_tongzhua-mode_select": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-more_data": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-mwssage_center": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-net_step1": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-net_step2": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-net_step3": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-net_step4": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-net_wifi_step1": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-net_wifi_step2": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-net_wifi_step3": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-orderlist": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-payment": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pets": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_active_summary": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_center": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_contract_detail": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_contract_list": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_create_order": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_create_staff": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_device_list": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_event": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_event_detail": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_event_join": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_item": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_log": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_more": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_order_list": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_pool": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_siteuser_mobile": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_siteuser_password": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_siteuser_setting": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_staff_list": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_stock_in": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_withdraw_history": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-pshop_withdraw_submit": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-reset_pwd": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-scan": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-scient_feed": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-service_messagedetail": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-set_meal": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-share_device": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-share_search": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-share_setting": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-sharepage": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-shop_list": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-siteuser_bindmobile": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-smart_feed": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-system_settings": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-timer_add": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-timer_index": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-trim": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-update_net": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-update_pwd": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-verifycode_new": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-version_update": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-video_review": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-video_review_fs": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-video_share": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-vipcenter": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-vipcheckout": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-vipproduct": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-virtual_switch": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "app_tongzhua-wifi_net_config_debugapp": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "default-home": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "default-id_8c352246b9d8aa363b6ac0b9": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "detail-news": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "detail-product": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-about": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-account": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-contact": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-coupon": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-couponcard": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-credits": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-footer": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-form": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-gameinfo": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-gift": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-header": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-home": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-invitation": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-login": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-member": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-notice": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "feature-search": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "list-news": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "list-product": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "mall-cart": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    },
+    "mall-checkout": {
+      "components": {},
+      "components_layout": [],
+      "css": "",
+      "template": "<div></div>"
+    }
+  },
+  "version": 2
+}

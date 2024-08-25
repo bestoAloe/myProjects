@@ -1,0 +1,159 @@
+{
+  "_appsettings": {
+    "background_color": "#f28e43",
+    "company_id": 500,
+    "created": "2020-04-14T16:06:15.730813",
+    "data": {
+      "androidPermissions": [
+        {
+          "active": true,
+          "key": "android.permission.FOREGROUND_SERVICE",
+          "label": "前台服务"
+        },
+        {
+          "active": true,
+          "key": "android.permission.INTERNET",
+          "label": "网络访问"
+        },
+        {
+          "active": true,
+          "key": "android.permission.READ_EXTERNAL_STORAGE",
+          "label": "从外部存储读取"
+        },
+        {
+          "active": true,
+          "key": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "label": "写入到外部存储"
+        },
+        {
+          "active": true,
+          "key": "android.permission.SYSTEM_ALERT_WINDOW",
+          "label": "显示在所有其他应用的顶部的提醒"
+        },
+        {
+          "active": true,
+          "key": "android.permission.VIBRATE",
+          "label": "震动"
+        },
+        {
+          "active": true,
+          "key": "android.permission.WAKE_LOCK",
+          "label": "避免睡眠或屏幕变暗"
+        },
+        {
+          "active": true,
+          "key": "android.permission.OBSERVE_GRANT_REVOKE_PERMISSIONS",
+          "label": "观察权限更改"
+        },
+        {
+          "active": true,
+          "key": "android.permission.CAMERA",
+          "label": "使用相机"
+        },
+        {
+          "active": true,
+          "key": "android.permission.ACCESS_COARSE_LOCATION",
+          "label": "获取粗略位置"
+        },
+        {
+          "active": true,
+          "key": "android.permission.ACCESS_FINE_LOCATION",
+          "label": "获取精确位置"
+        },
+        {
+          "active": true,
+          "key": "android.permission.ACCESS_BACKGROUND_LOCATION",
+          "label": "获取后台获取位置"
+        },
+        {
+          "active": true,
+          "key": "android.permission.ACCESS_WIFI_STATE",
+          "label": "获取 Wi-Fi 状态"
+        },
+        {
+          "active": true,
+          "key": "android.permission.ACCESS_NETWORK_STATE",
+          "label": "获取 GSM 网络信息"
+        },
+        {
+          "active": true,
+          "key": "android.permission.CHANGE_NETWORK_STATE",
+          "label": "改变网络连接状态"
+        }
+      ],
+      "apiUrl": "http://dcoding.cloud",
+      "files": [],
+      "iosPermissions": [
+        {
+          "active": true,
+          "key": "NSCameraUsageDescription",
+          "label": "允许 $(PRODUCT_NAME) 使用摄像头拍照设置为头像"
+        }
+      ],
+      "plugins": [
+        {
+          "active": true,
+          "key": "push",
+          "label": "阿里云推送"
+        },
+        {
+          "active": false,
+          "key": "agora",
+          "label": "Agora 音视频 SDK"
+        }
+      ],
+      "popupTermContent": "\n我们非常重视您的个人信息和隐私保护，为了更好地保证您的个人权益，在您使用我们产品前，请务必仔细阅读 《服务协议》 和 《隐私政策》 内的所有条款。\n其中隐私政策将向您说明：\n1.为了向您提供交易服务，我们仅收集使用必要的信息；\n2.为了保证您的账号安全，您需要授权我们读取本机识别码；\n3.为了方便您在线选购商品，您需要授权我们获取您的位置权限；\n4.我们已采取网络安全保护等措施保障您的信息安全；\n5.未经您同意，我们不会向第三方提供您的信息；\n6.您可以查询、修改、删除您的个人信息，也可以申请注销账户。\n",
+      "privacyTermUrl": "https://m.danlu.net/p/846298/",
+      "releatedIOSApp": 2,
+      "rootUrl": "http://m.local.phyng.com",
+      "serviceTermUrl": "https://m.danlu.net/p/846306/",
+      "launchStyle": {
+        "loadingColor": "",
+        "errorTextColor": "",
+        "errorViewBackgroundColor": "",
+        "termsViewBackgroundColor": "",
+        "loadingViewBackgroundColor": ""
+      },
+      "termsStyle": {
+        "maskBackgroundColor": "",
+        "modalBackgroundColor": "",
+        "modalTextColor": "",
+        "cancelButtonBackgroundColor": "",
+        "cancelButtonTextColor": "",
+        "confirmButtonBackgroundColor": "",
+        "confirmButtonTextColor": ""
+      },
+      "themeColors": {
+        "primary": "",
+        "background": "",
+        "card": "",
+        "text": "",
+        "border": "",
+        "notification": ""
+      }
+    },
+    "id": 1,
+    "is_active": true,
+    "last_modified": "2020-04-14T16:06:15.731043",
+    "logo": "2020/04/20/Fr9pp2tvT6hLKB6pHz84rpuG0hPd.jpg",
+    "name": "求真",
+    "package_name": "com.demlution.dwapp",
+    "platform": "android",
+    "start_screen": "2020/04/20/FpHDkyvTv_dHH7P-XtBC2_18muEO.png"
+  },
+  "apk_url": null,
+  "appsettings_id": 1,
+  "channel": "self",
+  "company_id": 500,
+  "created": "2023-07-26T09:52:11.688024",
+  "data": {},
+  "dissue_id": 2213,
+  "id": 27,
+  "is_active": true,
+  "last_modified": "2023-07-26T09:52:11.688124",
+  "page_id": 6542,
+  "platform": "android",
+  "rnapp_url": "https://s2.d2scdn.com/files/9a9435464fd045669a9130c72111c7f7/app-6542-20230726095149.dapk",
+  "state": "pending",
+  "version": "23.726.27"
+}
